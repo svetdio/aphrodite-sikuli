@@ -1,1 +1,1 @@
-Automation for transactions in games from aphrodite
+*Automation for transactions in games from aphrodite*
